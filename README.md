@@ -14,6 +14,8 @@ The application is expected to exposes the following features:
 - Show only the TODOs that are still _active_
 - Show the list of all TODOs (_done_ and _active_ ones)
 
+A _TODO_ is just a single message, such as: "Buy milk", "Review the code later", "Call Joe".
+
 ## Requirements
 
 - You are not allowed to use any kind of Frameworks.
