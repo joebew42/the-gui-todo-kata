@@ -18,9 +18,10 @@ A _TODO_ is just a single message, such as: "Buy milk", "Review the code later",
 
 ## Requirements
 
-- You are not allowed to use any kind of Frameworks.
-- Libraries such as `apache-commons` and others are allowed.
-- The application have to be easily _testable_.
+- You are not allowed to use any kind of frameworks.
+- Utility libraries such as `apache-commons` and other are allowed.
+- GUI Libraries are allowed to be used.
+- The application must to be _easily testable_
 - You are asked to write the best code you ever wrote in your life.
 - Build a product that make you really proud of it! Enjoy the '90' :)
 
